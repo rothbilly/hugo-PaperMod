@@ -16,20 +16,20 @@
     --code-block-bg: rgb(28, 29, 33);
     --code-bg: rgb(245, 245, 245);
     --border: rgb(142, 142, 142);
-    --hover: rgb(77, 79, 85);
+    --hover: rgb(81, 81, 82);
     --home-info-tile: url('/images/wth_isometric_tile.png');
 }
 
 .dark {
     --theme: rgb(32, 29, 31);
     --darkest: rgb(20, 20, 20);
-    --entry: rgb(46, 46, 51);
+    --entry: rgb(46, 46, 46);
     --primary: rgb(220, 220, 220);
     --secondary: rgb(155, 156, 157);
-    --tertiary: rgb(65, 66, 68);
+    --tertiary: rgb(66, 66, 66);
     --content: rgb(196, 196, 197);
-    --code-block-bg: rgb(46, 46, 51);
-    --code-bg: rgb(55, 56, 62);
+    --code-block-bg: rgb(25, 25, 26);
+    --code-bg: rgb(55, 56, 56);
     --border: rgb(225, 225, 225);
     --home-info-tile: url('/images/blk_isometric_tile.png');
 }
